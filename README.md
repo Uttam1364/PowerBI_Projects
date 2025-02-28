@@ -1,2 +1,2 @@
 # PowerBI_Projects
-These are projects of PowerBI done by me
+Power BI is develoed by Microsoft and released on 2011. It is one of the easiest and efficient data visualization tools. It has many functions that can fetch valuable insights for the improvement of an organisation. PowerBI is used to understand the current view of an institution and with the hel of data it fosters us to make right decision for the organisation throughout. This repository has few projects that were created by me in the form of visuals. Explore it and find the key takeaways. 
